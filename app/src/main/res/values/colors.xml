@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorbai">#FFFAFA</color>
+    <color name="black">#464646</color>
+    <color name="transparency">#00000000</color>
+    <color name="title_bg">#1C86EE</color>
+    <color name="end_color">#A04646</color>
+    <color name="white">#ffffff</color>
+    <color name="unfocured">#cccccccc</color>
+    <color name="pressed">#fff22fff</color>
+    <color name="selected">#fff33fff</color>
+    <color name="qianlan">#953399</color>
+    <color name="focused">#fff44fff</color>
+    <color name="shenlan">#3399ff</color>
+    <color name="yellow">#FF7F24</color>
+</resources>
